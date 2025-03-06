@@ -11,6 +11,9 @@
 ## Postman documentation 
 https://documenter.getpostman.com/view/42658721/2sAYdmkTdi
 
+## Test case and Bug report
+https://drive.google.com/drive/folders/13DLIlsspWoB0muU4oGS8rPDqNl1d3BEk?usp=sharing
+
 ## How to run?
 - Clone this project
 - Collect .env from developer and put on the source root folder
