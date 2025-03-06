@@ -8,6 +8,15 @@
 - Report: newman-html-extra
 - Git
 - VScode
+  
+## Modules:
+- User Create
+- User Login
+- Deposit
+- Balance Check
+- Send Money
+- Withdraw
+- Payment
 
 ## Postman documentation 
 https://documenter.getpostman.com/view/42658721/2sAYdmkTdi
