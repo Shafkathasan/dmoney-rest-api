@@ -7,6 +7,7 @@
 - Newman
 - Report: newman-html-extra
 - Git
+- VScode
 
 ## Postman documentation 
 https://documenter.getpostman.com/view/42658721/2sAYdmkTdi
