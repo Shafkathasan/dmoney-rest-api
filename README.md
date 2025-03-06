@@ -4,7 +4,7 @@
 
 ## Technology I used:
 - Postman
-- Newmman
+- Newman
 - Report: newman-html-extra
 - Git
 
